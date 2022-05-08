@@ -11,7 +11,7 @@ public class Examples {
         ertefa = input.nextInt();
         System.out.print("لطفا قاعده مثلث را وارد کنید:");
         ghaede = input.nextInt();
-        masahat = (ertefa * ghaede)/2;
+        masahat = (ertefa * ghaede)/2; 
         System.out.println("مساحت مثلث شما:" + masahat);
     }
 }
